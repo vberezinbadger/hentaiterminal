@@ -1,8 +1,7 @@
-## Introducing Hentai Terminal Beta!
+## Introducing Hentai Terminal!
 
 ### What's it?
-Hentai Terminal Beta - is a multifunctional terminal shell based on hentai Bash Subsystem, which emulates its virtual environment. You can also work with Windows features and more. The version for testers usually has more functions than the release build (Release channel).
-
+Hentai Terminal Beta - is a multifunctional terminal shell based on hentai Bash Subsystem, which emulates its virtual environment. You can also work with Windows features and more.
 ### Supported Systems
 A Windows version is currently being developed and supported, but we will soon start developing a Linux version.
 
