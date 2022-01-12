@@ -10,4 +10,4 @@ A special community will be created in which you will write modules for Hentai T
 
 
 ### Wiki
-To go to the manual for working with Hentai Terminal and Hentai Bash, click on the button: [https://github.com/vberezinbadger/hentaiterminal/wiki](Go to Wiki).
+To go to the manual for working with Hentai Terminal and Hentai Bash, click on the button: [https://github.com/vberezinbadger/hentaiterminal/wiki](Wiki)
