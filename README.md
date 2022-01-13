@@ -1,6 +1,6 @@
 ## Introducing Hentai Terminal!
 
-[![Hentai Terminal Main Banner](./splashes/hbashSplash.png)](https://vk.com/kolibracorp.hterminal)
+[![Hentai Terminal Main Banner](./splashes/banner.png)](https://vk.com/kolibracorp.hterminal)
 
 ### What's it?
 Hentai Terminal Beta - is a multifunctional terminal shell based on hentai Bash Subsystem, which emulates its virtual environment. You can also work with Windows features and more.
